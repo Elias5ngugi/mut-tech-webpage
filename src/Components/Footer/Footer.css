@@ -1,0 +1,35 @@
+.footer {
+    background: #143D60;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  .footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .footer-logo img {
+    width: 100px;
+  }
+  
+  .footer-links a,
+  .footer-social a {
+    color: #ccc;
+    text-decoration: none;
+    margin: 5px 10px;
+  }
+  
+  .footer-links a:hover,
+  .footer-social a:hover {
+    color: #fff;
+  }
+  
+  .footer-copy {
+    font-size: 14px;
+    opacity: 0.8;
+  }
+  
