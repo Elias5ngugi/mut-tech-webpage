@@ -1,4 +1,3 @@
-import React from "react";
 import "./Leadership.css";
 import { FaLinkedin, FaTwitter, FaFacebook, FaInstagram } from "react-icons/fa";
 
@@ -16,6 +15,7 @@ function Leadership() {
             <a href="#" target="_blank"><FaLinkedin /></a>
             <a href="#" target="_blank"><FaTwitter /></a>
             <a href="#" target="_blank"><FaFacebook /></a>
+            <a href="#" target="_blank"><FaInstagram /></a>
           </div>
         </div>
 

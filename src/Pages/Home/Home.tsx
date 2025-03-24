@@ -42,17 +42,38 @@ function Home() {
         <div className="testimonial">
             <img src="src/assets/alex-kariuki.jpg" alt="kariukiimg" className="abt-img" />
             <p>"MUTC has been a game-changer for my tech career. The workshops and mentorship are top-notch!"</p>
+            <p>⭐⭐⭐⭐⭐</p>
             <h4>- Alex Kariuki</h4>
          </div>
         <div className="testimonial">
             <img src="src/assets/faith-njoroge.jpg" alt="faithimg" className="abt-img" />
             <p>"Joining MUTC helped me build my first project and network with industry experts!"</p>
+            <p>⭐⭐⭐⭐⭐</p>
             <h4>- Faith Njoroge</h4>
         </div>
           <div className="testimonial">
             <img src="src/assets/kevin-mwangi.jpg" alt="kevinimg" className="abt-img"/>
             <p>"A great place to learn, collaborate, and innovate with like-minded students."</p>
+            <p>⭐⭐⭐⭐⭐</p>
             <h4>- Kevin Mwangi</h4>
+        </div>
+        <div className="testimonial">
+            <img src="src/Leaders/allan-muhari.jpg" alt="kariukiimg" className="abt-img" />
+            <p>"MUTC has been a game-changer for my tech career. The workshops and mentorship are top-notch!"</p>
+            <p>⭐⭐⭐⭐⭐</p>
+            <h4>- Francis Muraya</h4>
+         </div>
+        <div className="testimonial">
+            <img src="src/Leaders/victory-njeri.jpg" alt="faithimg" className="abt-img" />
+            <p>"Joining MUTC helped me build my first project and network with industry experts!"</p>
+            <p>⭐⭐⭐⭐⭐</p>
+            <h4>- Cynthia Wambui</h4>
+        </div>
+          <div className="testimonial">
+            <img src="src/Leaders/manase-gunga.jpg" alt="kevinimg" className="abt-img"/>
+            <p>"A great place to learn, collaborate, and innovate with like-minded students."</p>
+            <p>⭐⭐⭐⭐⭐</p>
+            <h4>- Moses Mbuthia</h4>
         </div>
   </div>
 </section>

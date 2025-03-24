@@ -43,3 +43,27 @@
 .nav-links a:hover {
     color: blue;
 }
+
+@media screen and (max-width: 768px){
+    .logo{
+        width: 40px;
+    }
+    .nav-links{
+        display: block;
+    }
+
+
+}
+@media screen and (max-width: 970px){
+    .club-name{
+        font-size: 20px;
+        flex-direction: column;
+        display: block;
+    }
+    .nav-links{
+        flex-direction: column;
+    }
+
+}
+    
+

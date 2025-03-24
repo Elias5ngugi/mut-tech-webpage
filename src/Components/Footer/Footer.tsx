@@ -24,7 +24,7 @@ function Footer() {
 
         <div className="footer-copy">
           <p>© 2025 Murang'a University Tech Club. All rights reserved.</p>
-          <p>Created by Elkido</p>
+          <p>Created by ❤Elkido❤</p>
         </div>
       </div>
     </footer>

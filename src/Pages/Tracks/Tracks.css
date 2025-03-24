@@ -1,0 +1,42 @@
+.section{
+    padding: 4rem 2rem;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    /* border: solid red; */
+    margin-top: 0;
+}
+button{
+    padding: 4px 3px;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+.section-card{
+    display: grid;
+    /* grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); */
+    gap: 20px;
+    justify-content: center;
+    padding: 10px;
+}
+.card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 100px;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+    gap: 20px;
+  }
+  p{
+    font-size: 1.3rem;
+    display: block;
+  }
+  .newsletter{
+    display: grid;
+    row-gap: 10px;
+    padding: 50px;
+    border: solid red;
+    background: white;
+    border-radius: 10px;
+  }
+ 
