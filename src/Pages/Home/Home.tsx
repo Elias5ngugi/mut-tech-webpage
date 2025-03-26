@@ -40,7 +40,7 @@ function Home() {
             <h2>What Our Members Say</h2>
             <div className="testimonial-container">
         <div className="testimonial">
-            <img src="public/assets/alex-kariuki.jpg" alt="kariukiimg" className="abt-img" />
+            <img src="/assets/alex-kariuki.jpg" alt="kariukiimg" className="abt-img" />
             <p>"MUTC has been a game-changer for my tech career. The workshops and mentorship are top-notch!"</p>
             <p>⭐⭐⭐⭐⭐</p>
             <h4>- Alex Kariuki</h4>
