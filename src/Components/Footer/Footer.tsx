@@ -5,7 +5,7 @@ function Footer() {
     <footer className="footer">
       <div className="footer-container">
         <div className="footer-logo">
-          <img src="public/assets/mut-logo.png" alt="MUTC Logo" />
+          <img src="/assets/mut-logo.png" alt="MUTC Logo" />
         </div>
 
         <div className="footer-links">

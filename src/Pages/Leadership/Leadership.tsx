@@ -7,7 +7,7 @@ function Leadership() {
       <h2>Meet Our Leadership</h2>
       <div className="leaders">
         <div className="leader-card">
-          <img src="public/Leaders/john-ndia.jpg" alt="Dr. John Ndia" />
+          <img src="/Leaders/john-ndia.jpg" alt="Dr. John Ndia" />
           <h3>Dr. John Ndia</h3>
           <p className="role">Patron</p>
           <p className="bio">Dr. John Ndia provides mentorship and strategic guidance to MUTC.</p>
@@ -20,7 +20,7 @@ function Leadership() {
         </div>
 
         <div className="leader-card">
-          <img src="public/Leaders/victory-njeri.jpg" alt="Victory Njeri" />
+          <img src="/Leaders/victory-njeri.jpg" alt="Victory Njeri" />
           <h3>Victory Njeri</h3>
           <p className="role">Chairperson</p>
           <p className="bio">Victory leads MUTC with a vision to empower students through technology.</p>
@@ -33,7 +33,7 @@ function Leadership() {
         </div>
 
         <div className="leader-card">
-          <img src="public/Leaders/allan-muhari.jpg" alt="Allan Muhari" />
+          <img src="/Leaders/allan-muhari.jpg" alt="Allan Muhari" />
           <h3>Allan Muhari</h3>
           <p className="role">Vice Chairperson</p>
           <p className="bio">Allan assists in leading the club, ensuring smooth operations and collaboration.</p>
@@ -46,7 +46,7 @@ function Leadership() {
         </div>
 
         <div className="leader-card">
-          <img src="public/Leaders/bridget-gitonga.jpg" alt="Bridget Gitonga" />
+          <img src="/Leaders/bridget-gitonga.jpg" alt="Bridget Gitonga" />
           <h3>Bridget Gitonga</h3>
           <p className="role">Secretary</p>
           <p className="bio">Bridget ensures smooth communication and documentation within the club.</p>
@@ -59,7 +59,7 @@ function Leadership() {
         </div>
 
         <div className="leader-card">
-          <img src="public/Leaders/ruth-mutisya.jpg" alt="Ruth Mutisya" />
+          <img src="/Leaders/ruth-mutisya.jpg" alt="Ruth Mutisya" />
           <h3>Ruth Mutisya</h3>
           <p className="role">Treasurer</p>
           <p className="bio">Ruth manages the club's financial resources efficiently.</p>
@@ -72,7 +72,7 @@ function Leadership() {
         </div>
 
         <div className="leader-card">
-          <img src="public/Leaders/webster-ifedha.jpg" alt="Webster Ifedha" />
+          <img src="/Leaders/webster-ifedha.jpg" alt="Webster Ifedha" />
           <h3>Webster Ifedha</h3>
           <p className="role">Cyber Security Lead</p>
           <p className="bio">Webster leads the cybersecurity division of MUTC.</p>
@@ -85,7 +85,7 @@ function Leadership() {
         </div>
 
         <div className="leader-card">
-          <img src="public/Leaders/manase-gunga.jpg" alt="Manase Gunga" />
+          <img src="/Leaders/manase-gunga.jpg" alt="Manase Gunga" />
           <h3>Manase Gunga</h3>
           <p className="role">UI/UX Lead</p>
           <p className="bio">Manase designs intuitive user interfaces and experiences.</p>
@@ -98,7 +98,7 @@ function Leadership() {
         </div>
 
         <div className="leader-card">
-          <img src="public/Leaders/calolyne-githenduka.jpg" alt="Carolyne Githenduka" />
+          <img src="/Leaders/calolyne-githenduka.jpg" alt="Carolyne Githenduka" />
           <h3>Carolyne Githenduka</h3>
           <p className="role">Web Development Lead</p>
           <p className="bio">Carolyne specializes in modern web development technologies.</p>
@@ -111,7 +111,7 @@ function Leadership() {
         </div>
 
         <div className="leader-card">
-          <img src="public/Leaders/stanely-amunze.jpg" alt="Stanley Amunze" />
+          <img src="/Leaders/stanely-amunze.jpg" alt="Stanley Amunze" />
           <h3>Stanley Amunze</h3>
           <p className="role">Mobile Apps Development Lead</p>
           <p className="bio">Stanley builds innovative mobile applications.</p>
@@ -124,7 +124,7 @@ function Leadership() {
         </div>
 
         <div className="leader-card">
-          <img src="public/Leaders/paul-karanja.jpg" alt="Paul Karanja" />
+          <img src="/Leaders/paul-karanja.jpg" alt="Paul Karanja" />
           <h3>Paul Karanja</h3>
           <p className="role">Cloud Engineering Lead</p>
           <p className="bio">Paul specializes in cloud computing and infrastructure.</p>
@@ -137,7 +137,7 @@ function Leadership() {
         </div>
 
         <div className="leader-card">
-          <img src="public/Leaders/evyonn-mbithe.jpg" alt="Evyonn Mbithe" />
+          <img src="/Leaders/evyonn-mbithe.jpg" alt="Evyonn Mbithe" />
           <h3>Evyonn Mbithe</h3>
           <p className="role">Power Platform Lead</p>
           <p className="bio">Evyonn specializes in low-code and automation solutions.</p>

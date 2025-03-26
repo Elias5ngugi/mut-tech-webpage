@@ -6,7 +6,7 @@ function Navbar() {
     return (
         <nav className="navbar">
             <div className="logo-container">
-            <img src="public/assets/mut-logo.png"alt="MUTC Logo" className="logo" />
+            <img src="/assets/mut-logo.png"alt="MUTC Logo" className="logo" />
             <span className="club-name">Murang'a University Tech Club</span>
             </div>
             <ul className="nav-links">
