@@ -43,7 +43,7 @@ function Tracks() {
         </div>
 
         <div className="track-card">
-          <img src="mobiledev.jpg" alt="Mobile Apps Development" className="track-image" />
+          <img src="src/Tracks-images/appdev.jpeg" alt="Mobile Apps Development" className="track-image" />
           <div className="card-content">
             <h3 className="track-title">Mobile Apps Development</h3>
             <p className="track-description">
@@ -54,7 +54,7 @@ function Tracks() {
         </div>
 
         <div className="track-card">
-          <img src="cloud.jpg" alt="Cloud Engineering" className="track-image" />
+          <img src="src/Tracks-images/cloud-engineering.jpeg" alt="Cloud Engineering" className="track-image" />
           <div className="card-content">
             <h3 className="track-title">Cloud Engineering</h3>
             <p className="track-description">
@@ -65,7 +65,7 @@ function Tracks() {
         </div>
 
         <div className="track-card">
-          <img src="power.jpg" alt="Power Platform" className="track-image" />
+          <img src="src/Tracks-images/UIUX-design.jpg" alt="Power Platform" className="track-image" />
           <div className="card-content">
             <h3 className="track-title">Power Platform</h3>
             <p className="track-description">
@@ -82,7 +82,7 @@ function Tracks() {
         <form className="register-form">
           <input type="text" placeholder="Full Name" required />
           <input type="email" placeholder="Email Address" required />
-          <input type="text" placeholder="Course of Study" required />
+          <input type="text" placeholder="Your Course" required />
           <input type="number" placeholder="Year of Study" required />
           <select required>
             <option value="">Select Track</option>

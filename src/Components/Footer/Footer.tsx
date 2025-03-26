@@ -13,7 +13,7 @@ function Footer() {
           <a href="/events">Events</a>
           <a href="/tracks">Tracks</a>
           <a href="/leadership">Leadership</a>
-          <a href="/contact">Contact</a>
+          <a href="/Events">Events</a>
         </div>
 
         <div className="footer-social">
