@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import "../Navbar/Navbar.css"; 
-import logo from "../../assets/mut-logo.png";
+import logo from "../../../public/assets/mut-logo.png";
 
 function Navbar() {
     return (
