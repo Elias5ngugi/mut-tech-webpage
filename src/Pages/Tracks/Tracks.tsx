@@ -10,7 +10,7 @@ function Tracks() {
 
       <section className="tracks-container">
         <div className="track-card">
-          <img src="public/Tracks-images/cybersecurity.jpg" alt="Cyber Security" className="track-image" />
+          <img src="/Tracks-images/cybersecurity.jpg" alt="Cyber Security" className="track-image" />
           <div className="card-content">
             <h3 className="track-title">Cyber Security</h3>
             <p className="track-description">
@@ -21,7 +21,7 @@ function Tracks() {
         </div>
 
         <div className="track-card">
-          <img src="public/Tracks-images/UIUX-design.jpg" alt="UI/UX Design" className="track-image" />
+          <img src="/Tracks-images/UIUX-design.jpg" alt="UI/UX Design" className="track-image" />
           <div className="card-content">
             <h3 className="track-title">UI/UX Design</h3>
             <p className="track-description">
@@ -32,7 +32,7 @@ function Tracks() {
         </div>
 
         <div className="track-card">
-          <img src="public/Tracks-images/web-development.jpg" alt="Web Development" className="track-image"/>
+          <img src="/Tracks-images/web-development.jpg" alt="Web Development" className="track-image"/>
           <div className="card-content">
             <h3 className="track-title">Web Development</h3>
             <p className="track-description">
@@ -43,7 +43,7 @@ function Tracks() {
         </div>
 
         <div className="track-card">
-          <img src="public/Tracks-images/appdev.jpeg" alt="Mobile Apps Development" className="track-image" />
+          <img src="/Tracks-images/appdev.jpeg" alt="Mobile Apps Development" className="track-image" />
           <div className="card-content">
             <h3 className="track-title">Mobile Apps Development</h3>
             <p className="track-description">
@@ -54,7 +54,7 @@ function Tracks() {
         </div>
 
         <div className="track-card">
-          <img src="public/Tracks-images/cloud-engineering.jpeg" alt="Cloud Engineering" className="track-image" />
+          <img src="/Tracks-images/cloud-engineering.jpeg" alt="Cloud Engineering" className="track-image" />
           <div className="card-content">
             <h3 className="track-title">Cloud Engineering</h3>
             <p className="track-description">
@@ -65,7 +65,7 @@ function Tracks() {
         </div>
 
         <div className="track-card">
-          <img src="public/Tracks-images/UIUX-design.jpg" alt="Power Platform" className="track-image" />
+          <img src="/Tracks-images/UIUX-design.jpg" alt="Power Platform" className="track-image" />
           <div className="card-content">
             <h3 className="track-title">Power Platform</h3>
             <p className="track-description">
