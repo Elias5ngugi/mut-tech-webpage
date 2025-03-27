@@ -13,6 +13,8 @@ function Events() {
           <p><b>Time:</b> 4pm - 7pm</p>
           <p><b>Location:</b> Computer Lab F04</p>
           <p><b>Led by:</b> Webster Ifedha</p>
+          <div className="tech-lines"></div>
+          <a href="#more" className="about-btn">Read More</a>
         </div>
 
         <div className="event-card">
@@ -21,6 +23,8 @@ function Events() {
           <p><b>Time:</b> 5pm - 8pm</p>
           <p><b>Location:</b> Computer Lab F04</p>
           <p><b>Led by:</b> Manase Gunga</p>
+          <div className="tech-lines"></div>
+          <a href="#more" className="about-btn">Read More</a>
         </div>
 
         <div className="event-card">
@@ -29,6 +33,8 @@ function Events() {
           <p><b>Time:</b> 6pm - 9pm</p>
           <p><b>Location:</b> Computer Lab F04</p>
           <p><b>Led by:</b> Carolyne Githenduka</p>
+          <div className="tech-lines"></div>
+          <a href="#more" className="about-btn">Read More</a>
         </div>
 
         <div className="event-card">
@@ -37,6 +43,8 @@ function Events() {
           <p><b>Time:</b> 4pm - 7pm</p>
           <p><b>Location:</b> Computer Lab F04</p>
           <p><b>Led by:</b> Stanley Amunze</p>
+          <div className="tech-lines"></div>
+          <a href="#more" className="about-btn">Read More</a>
         </div>
 
         <div className="event-card">
@@ -45,6 +53,8 @@ function Events() {
           <p><b>Time:</b> 3pm - 6pm</p>
           <p><b>Location:</b> Computer Lab F04</p>
           <p><b>Led by:</b> Paul Karanja</p>
+          <div className="tech-lines"></div>
+          <a href="#more" className="about-btn">Read More</a>
         </div>
 
         <div className="event-card">
@@ -53,6 +63,8 @@ function Events() {
           <p><b>Time:</b> 1pm - 4pm</p>
           <p><b>Location:</b> Computer Lab F04</p>
           <p><b>Led by:</b> Evyonn Mbithe</p>
+          <div className="tech-lines"></div>
+          <a href="#more" className="about-btn">Read More</a>
         </div>
       </div>
     </div>

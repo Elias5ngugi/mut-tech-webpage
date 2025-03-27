@@ -44,36 +44,42 @@ function Home() {
             <p>"MUTC has been a game-changer for my tech career. The workshops and mentorship are top-notch!"</p>
             <p>⭐⭐⭐⭐⭐</p>
             <h4>- Alex Kariuki</h4>
+            <div className="tech-lines"></div>
          </div>
         <div className="testimonial">
             <img src="/assets/faith-njoroge.jpg" alt="faithimg" className="abt-img" />
             <p>"Joining MUTC helped me build my first project and network with industry experts!"</p>
             <p>⭐⭐⭐⭐⭐</p>
             <h4>- Faith Njoroge</h4>
+            <div className="tech-lines"></div>
         </div>
           <div className="testimonial">
             <img src="/assets/kevin-mwangi.jpg" alt="kevinimg" className="abt-img"/>
             <p>"A great place to learn, collaborate, and innovate with like-minded students."</p>
             <p>⭐⭐⭐⭐⭐</p>
             <h4>- Kevin Mwangi</h4>
+            <div className="tech-lines"></div>
         </div>
         <div className="testimonial">
             <img src="/Leaders/allan-muhari.jpg" alt="kariukiimg" className="abt-img" />
             <p>"MUTC has been a game-changer for my tech career. The workshops and mentorship are top-notch!"</p>
             <p>⭐⭐⭐⭐⭐</p>
             <h4>- Francis Muraya</h4>
+            <div className="tech-lines"></div>
          </div>
         <div className="testimonial">
             <img src="/Leaders/victory-njeri.jpg" alt="faithimg" className="abt-img" />
             <p>"Joining MUTC helped me build my first project and network with industry experts!"</p>
             <p>⭐⭐⭐⭐⭐</p>
             <h4>- Cynthia Wambui</h4>
+            <div className="tech-lines"></div>
         </div>
           <div className="testimonial">
             <img src="/Leaders/manase-gunga.jpg" alt="kevinimg" className="abt-img"/>
             <p>"A great place to learn, collaborate, and innovate with like-minded students."</p>
             <p>⭐⭐⭐⭐⭐</p>
             <h4>- Moses Mbuthia</h4>
+            <div className="tech-lines"></div>
         </div>
   </div>
 </section>
